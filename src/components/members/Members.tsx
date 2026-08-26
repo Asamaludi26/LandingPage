@@ -201,7 +201,7 @@ export const Members: React.FC = () => {
                     <div className="text-center md:text-left">
                         <h3 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight reveal">The Core Crew</h3>
                         <p className="text-gray-400 mt-2 max-w-xl text-sm sm:text-base reveal" style={{ transitionDelay: '150ms' }}>
-                            The passionate individuals steering the VeloBikers community.
+                            The passionate individuals steering the community.
                         </p>
                     </div>
 

@@ -1,6 +1,6 @@
-# VeloBikers Community Landing Page
+# Landing Page
 
-Landing page interaktif komunitas touring motor **VeloBikers Motor Club**.
+Landing page interaktif komunitas touring motor **Your Brand**.
 
 ## Tech Stack
 

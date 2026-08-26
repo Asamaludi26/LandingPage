@@ -14,7 +14,7 @@ export const About: React.FC<{ onOpenModal: (element: HTMLElement) => void }> = 
                     Lebih dari Sekadar Klub, Ini adalah <span className="text-amber-500">Persaudaraan</span>
                 </h3>
                 <p className="text-gray-400 mb-4 leading-relaxed reveal" style={{ transitionDelay: '150ms' }}>
-                    VeloBikers bukan hanya komunitas; ini adalah persaudaraan yang ditempa di atas aspal. Kami adalah sekelompok pengendara penuh semangat yang memiliki kecintaan mendalam untuk touring dan menjelajahi cakrawala baru.
+                    YourBrand bukan hanya komunitas; ini adalah persaudaraan yang ditempa di atas aspal. Kami adalah sekelompok pengendara penuh semangat yang memiliki kecintaan mendalam untuk touring dan menjelajahi cakrawala baru.
                 </p>
                 <p className="text-gray-400 leading-relaxed reveal" style={{ transitionDelay: '300ms' }}>
                    Dari jalur pegunungan yang indah hingga jalan pesisir yang tenang, setiap perjalanan adalah kenangan baru. Filosofi kami sederhana: Berkendara dengan hormat, saling mendukung, dan merangkul kebebasan jalanan terbuka.
@@ -39,7 +39,7 @@ export const About: React.FC<{ onOpenModal: (element: HTMLElement) => void }> = 
                         muted 
                         playsInline
                         className="w-full h-full object-cover"
-                        aria-label="VeloBikers Community on a scenic road"
+                        aria-label="Community on a scenic road"
                     >
                         Your browser does not support the video tag.
                     </video>

@@ -50,7 +50,7 @@ export const Contact: React.FC = () => {
         <AnimatedSection id="contact" className="py-20 sm:py-24 bg-gray-800 text-white">
             <div className="container mx-auto px-4 sm:px-6">
                 <div className="text-center">
-                    <h3 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-2 reveal">Become a VeloBiker</h3>
+                    <h3 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-2 reveal">Become a Rider</h3>
                     <p className="text-gray-400 mb-10 sm:mb-12 max-w-2xl mx-auto reveal" style={{ transitionDelay: '150ms' }}>Ready to ride with us? Reach out and become part of the family.</p>
                 </div>
                 <div className="max-w-2xl mx-auto bg-gray-800/50 border border-gray-700 backdrop-blur-sm p-6 sm:p-8 rounded-lg shadow-2xl reveal" style={{ transitionDelay: '300ms' }}>

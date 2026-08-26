@@ -1,5 +1,5 @@
 // ============================================================
-// STATIC DATA — VeloBikers Motor Club
+// STATIC DATA — Landing Page
 // Edit file ini untuk mengubah konten website.
 // Semua data di sini bersifat statis (hardcode).
 // Save file → browser otomatis update (hot reload).
@@ -56,7 +56,7 @@ export const GALLERY_IMAGES: GalleryImage[] = [
     alt: "Close-up of a motorcycle engine",
     caption: "Engine Maintenance Day",
     date: "10 Maret 2023",
-    location: "VeloBikers HQ",
+    location: "HQ Meeting Point",
     details: "Sharing knowledge and getting our hands dirty to keep our rides in top condition."
   },
   {
@@ -88,7 +88,7 @@ export const TOUR_EVENTS: TourEvent[] = [
     imageSrc: "https://picsum.photos/seed/event1/800/500",
     details: {
       mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.017892749715!2d106.8271520147693!3d-6.26297499546853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f2327c5f4f69%3A0x5d4e135a5a5d2a6a!2sJakarta!5e0!3m2!1sen!2sid!4v1628887654321!5m2!1sen!2sid",
-      meetingPoint: "VeloBikers HQ, 8:00 AM",
+      meetingPoint: "HQ Meeting Point, 8:00 AM",
       schedule: ["08:00 - Briefing", "09:00 - Ride Starts", "12:00 - Lunch & Donation", "15:00 - Return"],
       requiredGear: ["Full-face helmet", "Riding jacket", "Gloves", "Donations (optional)"],
       difficulty: "Beginner",
@@ -232,7 +232,7 @@ export const MEMBER_PROFILES: MemberProfile[] = [
         avatarSrc: "https://picsum.photos/seed/member1/800/800",
         bike: "Kawasaki Z900",
         quote: "The road is my canvas, and my bike is the brush. Every turn is a new stroke of freedom.",
-        bio: "With over 15 years on two wheels, Andi has explored every corner of the archipelago. For him, VeloBikers is about the shared passion and the silent understanding between riders on an open road.",
+        bio: "With over 15 years on two wheels, Andi has explored every corner of the archipelago. For him, the community is about the shared passion and the silent understanding between riders on an open road.",
         socials: { instagram: "#", facebook: "#" }
     },
     {
@@ -272,7 +272,7 @@ export const MEMBER_PROFILES: MemberProfile[] = [
         avatarSrc: "https://picsum.photos/seed/member5/800/800",
         bike: "BMW R1250GS",
         quote: "Ride safe, ride smart. The best ride is the one where everyone gets home.",
-        bio: "An ex-paramedic, Eko is dedicated to rider safety. He runs regular safety briefing sessions and loves that VeloBikers prioritizes a culture of responsibility and looking out for one another.",
+        bio: "An ex-paramedic, Eko is dedicated to rider safety. He runs regular safety briefing sessions and loves that the community prioritizes a culture of responsibility and looking out for one another.",
         socials: { instagram: "#", facebook: "#" }
     },
     {
@@ -282,7 +282,7 @@ export const MEMBER_PROFILES: MemberProfile[] = [
         avatarSrc: "https://picsum.photos/seed/member6/800/800",
         bike: "Royal Enfield Classic 350",
         quote: "Capturing our adventures one photo at a time. Follow our journey!",
-        bio: "Rina is the visual storyteller of VeloBikers. With her camera always at the ready, she loves capturing the candid moments of friendship and adventure that define the community spirit.",
+        bio: "Rina is the visual storyteller of the community. With her camera always at the ready, she loves capturing the candid moments of friendship and adventure that define the community spirit.",
         socials: { instagram: "#", facebook: "#" }
     },
     {
@@ -302,7 +302,7 @@ export const MEMBER_PROFILES: MemberProfile[] = [
         avatarSrc: "https://picsum.photos/seed/member8/800/800",
         bike: "Yamaha MT-25",
         quote: "Welcoming new faces to the family is the best part of our community. Let's ride!",
-        bio: "Sari's infectious enthusiasm makes every newcomer feel right at home. Her favorite thing about VeloBikers is seeing a timid first-timer blossom into a confident road explorer.",
+        bio: "Sari's infectious enthusiasm makes every newcomer feel right at home. Her favorite thing about the community is seeing a timid first-timer blossom into a confident road explorer.",
         socials: { instagram: "#", facebook: "#" }
     },
     {

@@ -1,5 +1,5 @@
 // ============================================================
-// TYPE DEFINITIONS — VeloBikers Motor Club
+// TYPE DEFINITIONS
 // Semua type/interface untuk data aplikasi
 // ============================================================
 

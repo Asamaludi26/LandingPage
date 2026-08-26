@@ -284,9 +284,9 @@ body:has(a:hover, button:hover, .cursor-pointer:hover) #cursor-spotlight {
 /* === Tailwind Config === */
 @layer base {
   :root {
-    --color-velobikers-amber: #f59e0b;
-    --color-velobikers-orange: #d97706;
-    --color-velobikers-dark: #111827;
-    --color-velobikers-darker: #030712;
+    --color-brand-amber: #f59e0b;
+    --color-brand-orange: #d97706;
+    --color-brand-dark: #111827;
+    --color-brand-darker: #030712;
   }
 }

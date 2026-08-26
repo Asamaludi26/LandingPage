@@ -12,7 +12,7 @@ export const Header: React.FC<{
         <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-gray-900/80 shadow-lg backdrop-blur-md' : 'bg-transparent'}`}>
             <div className="container mx-auto px-4 sm:px-6 py-4 flex justify-between items-center">
                 <a href="#home" onClick={(e) => onNavClick(e, 'home')} className="text-2xl font-bold text-white tracking-wider">
-                    Velo<span className="text-amber-500">Bikers</span>
+                    Your<span className="text-amber-500">Brand</span>
                 </a>
                 <nav className="hidden md:flex space-x-8">
                     {NAV_LINKS.map(link => (

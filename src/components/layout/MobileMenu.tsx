@@ -65,7 +65,7 @@ export const MobileMenu: React.FC<{
               onClick={(e) => e.stopPropagation()}
             >
                 <div className="container mx-auto px-4 sm:px-6 py-4 flex justify-between items-center flex-shrink-0">
-                     <h1 id="mobile-menu-title" className="text-2xl font-bold text-white tracking-wider">Velo<span className="text-amber-500">Bikers</span></h1>
+                     <h1 id="mobile-menu-title" className="text-2xl font-bold text-white tracking-wider">Your<span className="text-amber-500">Brand</span></h1>
                      <button aria-label="Close menu" onClick={onMenuToggle} className="text-white">
                          <HiOutlineX className="w-8 h-8"/>
                      </button>
@@ -98,7 +98,7 @@ export const MobileMenu: React.FC<{
                         Join Our Next Ride
                     </button>
                     <div className="flex justify-center space-x-6 mt-6">
-                        <a href="mailto:contact@velobikers.com" aria-label="Email us" className="text-gray-400 hover:text-amber-500 transition-colors"><HiOutlineMail className="w-7 h-7" /></a>
+                        <a href="mailto:contact@yourbrand.com" aria-label="Email us" className="text-gray-400 hover:text-amber-500 transition-colors"><HiOutlineMail className="w-7 h-7" /></a>
                         <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-gray-400 hover:text-amber-500 transition-colors"><FaInstagram className="w-7 h-7" /></a>
                         <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="text-gray-400 hover:text-amber-500 transition-colors"><FaFacebookF className="w-7 h-7" /></a>
                     </div>

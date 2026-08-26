@@ -1,5 +1,5 @@
 // ============================================================
-// APP ROOT — VeloBikers Motor Club
+// APP ROOT
 // Root component. Manage global state & modal logic.
 // ============================================================
 

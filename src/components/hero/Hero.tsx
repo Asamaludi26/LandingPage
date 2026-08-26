@@ -26,7 +26,7 @@ export const Hero: React.FC<{ onJoinClick: () => void }> = ({ onJoinClick }) => 
             <div ref={textRef} className="relative text-center text-white px-4 z-20 will-change-transform">
                 <h2 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-tight uppercase">Ride the Horizon</h2>
                 <p className="text-lg sm:text-xl md:text-2xl mt-4 max-w-3xl mx-auto font-light text-gray-200">
-                    Brotherhood, Adventure, and the Open Road. This is VeloBikers.
+                    Brotherhood, Adventure, and the Open Road. This is YourBrand.
                 </p>
                 <button onClick={onJoinClick} className="mt-8 inline-block bg-gradient-to-br from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white font-bold py-3 px-6 sm:px-8 text-base sm:text-lg rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg shadow-amber-500/30">
                     Join Our Next Ride
