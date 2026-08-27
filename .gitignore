@@ -29,5 +29,4 @@ dist-ssr
 .env.*.local
 
 # Local only
-.ai/
 metadata.json
